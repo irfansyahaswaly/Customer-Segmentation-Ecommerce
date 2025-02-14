@@ -1,6 +1,6 @@
 # Customer Segmentation in E-Commerce 📊
 
-## Deskripsi 📝
+## Description 📝
 Customer segmentation is essential in e-commerce to improve marketing strategies. This project applies data analysis techniques to group customers based on their purchasing patterns.
 
 We applied clustering techniques in **Jupyter Notebook** to identify three distinct customer segments:
