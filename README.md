@@ -3,7 +3,7 @@
 ## Description 📝
 Customer segmentation is essential in e-commerce to improve marketing strategies. This project applies data analysis techniques to group customers based on their purchasing patterns.
 
-We applied clustering techniques in **Jupyter Notebook** to identify three distinct customer segments:
+I applied clustering techniques in **Jupyter Notebook** to identify three distinct customer segments:
 
 - **High-value customers** 💎: Frequent, high-volume buyers.
 - **Regular customers** 🛍️: Consistent shoppers with moderate frequency.
